@@ -67,12 +67,12 @@ const Checkout = () => {
               {cartItems.map((item) => (
                 <div key={item.id} className="checkout-item">
                   <img
-                    src={item.image}
+                    src={`${process.env.PUBLIC_URL}/images/${item.image}`}
                     alt={item.name}
                     className="checkout-item-image"
                     onError={(e) => {
                       e.target.onerror = null;
-                      e.target.src = '/images/default.png';
+                      e.target.src = `${process.env.PUBLIC_URL}/images/default.png`;
                     }}
                   />
                   <div className="checkout-item-details">
