@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/school-supplies-store/static/css/main.9f0d4bde.css",
+    "main.js": "/school-supplies-store/static/js/main.86c68db7.js",
+    "static/js/453.497dff23.chunk.js": "/school-supplies-store/static/js/453.497dff23.chunk.js",
+    "index.html": "/school-supplies-store/index.html",
+    "main.9f0d4bde.css.map": "/school-supplies-store/static/css/main.9f0d4bde.css.map",
+    "main.86c68db7.js.map": "/school-supplies-store/static/js/main.86c68db7.js.map",
+    "453.497dff23.chunk.js.map": "/school-supplies-store/static/js/453.497dff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0d4bde.css",
+    "static/js/main.86c68db7.js"
+  ]
+}
