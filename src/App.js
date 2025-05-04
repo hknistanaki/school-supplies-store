@@ -31,7 +31,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="app">
         <Navbar 
           cartItems={cartItems} 
