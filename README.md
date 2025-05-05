@@ -38,7 +38,3 @@ npm start
 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
